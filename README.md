@@ -21,11 +21,11 @@ The objective is to analyze and visualize the data through various pivot tables 
 
 **Dataset**
 
-[Kaggle](https://www.kaggle.com/datasets?fileType=csv)
+Option 1: [Kaggle](https://www.kaggle.com/datasets?fileType=csv)
 
-[irena.org](https://www.irena.org/Statistics/View-Data-by-Topic/Finance-and-Investment/Renewable-Energy-Finance-Flows)
+Option 2: [irena.org](https://www.irena.org/Statistics/View-Data-by-Topic/Finance-and-Investment/Renewable-Energy-Finance-Flows)
 
-And, also the dataset can be found on [Macquarie University](https://www.coursera.org/learn/excel-data-visualization) Coursera Course. I am grateful for both Lecturer guidance on this project.
+Option 3: And, also the dataset can be found on [Macquarie University](https://www.coursera.org/learn/excel-data-visualization) Coursera Course. I am grateful for both Lecturer guidance on this project.
 
 **Tool** 
 
